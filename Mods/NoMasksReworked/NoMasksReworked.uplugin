@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 2,
+	"VersionName": "2.0.0",
+	"FriendlyName": "No Masks Reworked",
+	"Description": "Hides heister's masks dynamically",
+	"Category": "Modding",
+	"CreatedBy": "Nadz",
+	"CreatedByURL": "https://modworkshop.net/user/shalashaska1",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EnabledByDefault": true,
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "PDML",
+			"Enabled": true,
+			"SemVersion": "EA_0.1.1"
+		}
+	],
+	"SemVersion": "2.0.0",
+	"RequiredOnRemote": false
+}
