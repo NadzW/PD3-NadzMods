@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 2,
-	"VersionName": "2.0.0",
+	"VersionName": "2.1.0",
 	"FriendlyName": "Unique Loot 3",
 	"Description": "A mod that gives you a unique lootbag for every type of loot there is.",
 	"Category": "Modding",
@@ -19,9 +19,15 @@
 		{
 			"Name": "PDML",
 			"Enabled": true,
-			"SemVersion": "EA_0.1.0"
+			"SemVersion": "EA_0.1.1"
 		}
 	],
-	"SemVersion": "2.0.0",
-	"RequiredOnRemote": false
+	"SemVersion": "2.1.0",
+	"RequiredOnRemote": false,
+	"ModPageURL": "https://modworkshop.net/mod/47136",
+	"ModEnvironment": "Client",
+	"ModLoaderVersion": "EA_0.1.1",
+	"ModAuthors": [
+		"Nadz"
+	]
 }
