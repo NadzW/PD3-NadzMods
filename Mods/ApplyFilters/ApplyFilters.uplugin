@@ -1,0 +1,33 @@
+{
+	"FileVersion": 3,
+	"Version": 1,
+	"VersionName": "1.0.0",
+	"FriendlyName": "ApplyFilters",
+	"Description": "Auto applies filters on game start ",
+	"Category": "Modding",
+	"CreatedBy": "Nadz",
+	"CreatedByURL": "https://modworkshop.net/user/shalashaska1",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "PDML",
+			"Enabled": true,
+			"SemVersion": "EA_0.1.3"
+		}
+	],
+	"EnabledByDefault": true,
+	"SemVersion": "1.0.0",
+	"ModEnvironment": "Client",
+	"ModLoaderVersion": "EA_0.1.3",
+	"ModPageURL": "https://modworkshop.net/mod/59781",
+	"ModAuthors": [
+		"Nadz"
+	],
+	"RequiredOnRemote": false
+}
