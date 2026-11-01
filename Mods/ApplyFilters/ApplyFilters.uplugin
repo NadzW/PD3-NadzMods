@@ -1,7 +1,7 @@
 {
 	"FileVersion": 3,
 	"Version": 1,
-	"VersionName": "1.0.0",
+	"VersionName": "1.0.1",
 	"FriendlyName": "ApplyFilters",
 	"Description": "Auto applies filters on game start ",
 	"Category": "Modding",
@@ -22,7 +22,7 @@
 		}
 	],
 	"EnabledByDefault": true,
-	"SemVersion": "1.0.0",
+	"SemVersion": "1.0.1",
 	"ModEnvironment": "Client",
 	"ModLoaderVersion": "EA_0.1.3",
 	"ModPageURL": "https://modworkshop.net/mod/59781",
