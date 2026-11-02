@@ -1,0 +1,27 @@
+{
+	"FileVersion": 3,
+	"Version": 3,
+	"VersionName": "3.0.1",
+	"FriendlyName": "BetaHUD",
+	"Description": "Replaces the HUD widgets with Beta HUD Widgets.",
+	"Category": "Modding",
+	"CreatedBy": "Nadz",
+	"CreatedByURL": "https://modworkshop.net/user/shalashaska1",
+	"DocsURL": "",
+	"MarketplaceURL": "",
+	"SupportURL": "",
+	"EnabledByDefault": true,
+	"CanContainContent": true,
+	"IsBetaVersion": false,
+	"IsExperimentalVersion": false,
+	"Installed": false,
+	"Plugins": [
+		{
+			"Name": "PDML",
+			"Enabled": true,
+			"SemVersion": "EA_0.1.1"
+		}
+	],
+	"SemVersion": "3.0.1",
+	"RequiredOnRemote": false
+}
